@@ -17,7 +17,8 @@ React와 Spring Boot를 이용한 간단한 Todo App 구현
 
 ## 운영배포한 사항
 
-- 프론트엔드 배포 url : http://prod-todo-frontend2.ap-northeast-2.elasticbeanstalk.com/ (현재 서버 DOWN)</br></br></br>
+- 프론트엔드 배포 url : http://prod-todo-frontend2.ap-northeast-2.elasticbeanstalk.com/ (현재 서버 DOWN)
+- 백엔드 배포 url : http://prod-todo-backend.ap-northeast-2.elasticbeanstalk.com/ (현재 서버 DOWN)</br></br></br>
 
 1. 로그인 페이지
    ![파일명.확장자](./img/로그인페이지.png)</br></br></br>
